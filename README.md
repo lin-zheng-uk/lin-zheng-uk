@@ -1,7 +1,7 @@
-### 
+### LZ
 - 🔭 I’m a researcher.
 - 🌱 My interests are the application of AI, machine learning, and data science in the building sector.
-- 👯 Building Energy, Carbon emissions, Occupant behaviour etc.
+- 👯 Key words: building energy, carbon emissions, occupant behaviour etc.
 - 📫 To reach me: lin.z@ucl.ac.uk 
 
 <!--
