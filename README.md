@@ -6,7 +6,7 @@
 	
  I’m looking to collaborate with researchers who have similar interests.
 	
- please contact me at lin.z.ucl.ac.uk;
+ please contact me at lin.z@ucl.ac.uk;
 
 <!---
 Lin-uk/Lin-uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
