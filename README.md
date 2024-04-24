@@ -2,7 +2,7 @@
 	
  I’m interested in energy and carbon emissions for buildings.
 	
- I continue learning coding and machine learning for my research, python and R.
+ I continue learning machine learning for my research. I use Python and R.
 	
  I’m looking to collaborate with researchers who have similar interests.
 	
