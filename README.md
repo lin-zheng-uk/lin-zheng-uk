@@ -1,12 +1,9 @@
  I’m Lin, a researcher.
 	
- I’m interested in energy and carbon emissions for buildings.
-	
- I continue learning machine learning for my research. I use Python and R.
-	
- I’m looking to collaborate with researchers who have similar interests.
-	
- please contact me at lin.z@ucl.ac.uk;
+ I’m interested in the application of AI, machine learning, and data science in the building sector (energy, carbon emissions, occupants' behaviour, energy poverty, etc).
+
+ 
+
 
 <!---
 Lin-uk/Lin-uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
