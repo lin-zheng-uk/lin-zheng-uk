@@ -1,7 +1,7 @@
 ### LZ
-- 🔭 I’m a Researcher and data scientist at UCL Energy Institute.
-- 🌱 My interests are the application of AI, machine learning, and data science in the building sector.
-- 👯 Keywords: building energy, carbon emissions, occupant behaviour etc.
+- 🔭 I’m a researcher and data scientist at UCL Energy Institute. PhD in Renewable Energy at the University of Exeter.
+- 🌱 My interests are the application of AI, machine learning, and data science techniques in "buildings and energy".
+- 👯 Keywords: building energy, carbon emissions, fuel/energy poverty, occupant behaviour etc.
 - 📫 To reach me: lin.z@ucl.ac.uk 
 
 <!--
