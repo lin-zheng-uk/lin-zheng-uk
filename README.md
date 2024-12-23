@@ -1,7 +1,7 @@
 ### LZ
 - 🔭 I am a data scientist and research fellow at UCL Energy Institute. 
 - 🌱 My interests are the application of AI, machine learning, and data science techniques in "buildings and energy".
-- 👯 Keywords: building energy, carbon emissions, fuel/energy poverty, occupant behaviour etc.
+- 👯 Keywords: building energy, carbon emissions, life cycle assessment, energy poverty/inequality, occupant behaviour etc.
 - 📫 To reach me: lin.z@ucl.ac.uk 
 
 <!--
